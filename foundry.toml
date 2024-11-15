@@ -22,4 +22,5 @@ gas_reports = ["Faucet"]
 [rpc_endpoints]
 localhost = "http://localhost:8545"
 sepolia = "https://ethereum-sepolia-rpc.publicnode.com"
+rootstock-testnet =""
 
